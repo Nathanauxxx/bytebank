@@ -1,3 +1,3 @@
 # cadastro lógico do sistema bytebank #
 
->Status do projeto no inicio
+>Status do projeto no início
